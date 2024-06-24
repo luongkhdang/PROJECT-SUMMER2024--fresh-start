@@ -13,3 +13,9 @@ ABOUT ME:
 
 PROJECT SUMMER2024:
       This is a collective of small projects to reflect my journey to become a full-stack swe.
+
+
+CAREER BUILDING - OBJECTIVE:
+In the Summer2024, I will:
+        Master the coding Python, 
+        and build a strong problem solving by practicing Leetcode (using Python+Java).
