@@ -18,4 +18,8 @@ PROJECT SUMMER2024:
 CAREER BUILDING - OBJECTIVE:
 In the Summer2024, I will:
         Master the coding Python, 
-        and build a strong problem solving by practicing Leetcode (using Python+Java).
+        Build a strong problem solving by practicing Leetcode (using Python+Java).
+        Complete 2 full-stack web application.
+
+TIMESTAMP:
+      06/24: 2:08:26 Python course ; Made a for-swe resume and a non-swe resume.
