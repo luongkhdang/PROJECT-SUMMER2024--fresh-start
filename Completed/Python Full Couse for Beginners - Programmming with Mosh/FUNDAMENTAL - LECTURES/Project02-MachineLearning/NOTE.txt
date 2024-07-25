@@ -1,0 +1,26 @@
+PROJ2 - MACHINE LEARNING
+
+JUPYTER - environment
+ANACONDA - platform
+
+
+
+1. IMPORT THE DATA
+2. CLEAN THE DATA
+3. SPLIT THE DATA INTO TRAINING/TEST SETS
+4. CREATE A MODEL
+5. TRAIN THE MODEL
+6. MAKE PREDICTIONS
+
+
+LIBRARIES:
+    Numpy - multiDimensional
+    Pandas - row/columm
+    MatPlotLib - graph
+    Scikit-Learn - common algos
+
+
+
+
+In this project, I learned how to use Scikit and Pandas library to analys a data set. File music.csv was fitted using DesicionTreeClassifer() from sklearn.tree, then analyzed and export as an .dot file using tree.export_graphviz.
+We can read the .dot file using graphviz extension on VSCODE.

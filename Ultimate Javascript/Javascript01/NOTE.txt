@@ -1,0 +1,16 @@
+live server: right click -> open with live server
+
+
+
+hoisting: javascript - is a behavior in which variable and function declarations are moved to the top
+of their containing scope during the compilation phase. 
+	this means that you can use variables and functions before you declare them in your code.
+	however, only the declarations are hoisted, not the initializations.
+
+
+function sum() {
+    let total = 0;
+    for (let value of arguments)
+        total += value;
+    return total;
+}

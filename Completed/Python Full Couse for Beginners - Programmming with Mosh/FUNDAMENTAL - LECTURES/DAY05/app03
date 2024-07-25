@@ -1,0 +1,26 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Sample data
+sales_data = {
+    'Region': ['North', 'South', 'East', 'West'],
+    'Q1 Sales': [150000, 120000, 130000, 140000],
+    'Q2 Sales': [160000, 110000, 135000, 150000],
+    'Q3 Sales': [170000, 115000, 140000, 155000],
+    'Q4 Sales': [180000, 125000, 145000, 160000]
+}
+
+sales_df = pd.DataFrame(sales_data)
+sales_df.set_index('Region', inplace=True)
+
+# Plotting the data
+sales_df.plot(kind='bar', figsize=(10, 6))
+plt.title('Quarterly Sales by Region')
+plt.xlabel('Region')
+plt.ylabel('Sales')
+plt.legend(title='Quarter')
+plt.tight_layout()
+plt.savefig("./sales_performance_dashboard.png")
+plt.close()
+
+"./sales_performance_dashboard.png"

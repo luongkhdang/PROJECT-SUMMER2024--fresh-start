@@ -1,0 +1,54 @@
+ 
+body {
+  margin: 10px;
+}
+
+
+table{
+border: #c4dcf3;
+border-collapse: collapse;
+}
+
+thead, tfoot{
+  background-color: #427fef;
+  color: #eef7ff;
+
+ }
+
+
+
+
+
+th, td {
+  padding: 10px;
+  font-weight: lighter;
+ }
+
+
+ tbody tr:nth-child(odd){
+  background-color: #eef7ff;
+
+ }
+
+
+ .box {
+  margin: 100px;
+  width: 300px;
+  height: 300px;
+  background-color: tomato  ;
+  border-radius: 10px;
+  box-shadow: 10px 10px lightgrey;
+  
+ }
+
+ body {
+  margin: 10px;
+}
+
+.box {
+  background: tomato;
+  width: 300px;
+  height: 300px;
+  box-shadow: 10px 10px lightgray;
+  border-radius: 10px;
+}
