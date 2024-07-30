@@ -1,3 +1,6 @@
+This project has been discontinued/refactored. Overtime, the material has cummulated and need to be better re-organized.
+Starting August, big projects will have a seperate Repo, and learning material will be private and keep locally.
+
 # Python-summer-2024---fresh-start
 ABOUT ME:
       Dedicating the summer 2024 to break back into Tech. BS CompSci at San Francisco State University.
